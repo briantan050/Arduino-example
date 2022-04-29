@@ -30,7 +30,7 @@ The following is an example of creating a basic Arduino project using hardware f
 ## Open example files
 **Open the HelloWorld example sketch.**
 -	In the Arduino window, navigate to: `File > Open`.
--	Navigate to the `examples` folder which can be found here: `C:\Users\Brian\Documents\Arduino\libraries\X-NUCLEO-IKS01A2-main\examples`
+-	Navigate to the `examples` folder which can be found here: `C:\Users\Brian\Documents\Arduino\libraries\X-NUCLEO-IKS01A2-main\examples`.
 -	This folder contains code examples of different functions for operating the sensor board. 
 -	Open `X_NUCLEO_IKS01A2_HelloWorld` and open the subsequent `.ino` file.
 -	This code reads sensor data and prints it to the Arduino serial monitor as a string. To upload it to the board, we will first connect it by USB.
