@@ -6,6 +6,9 @@ The following is an example of creating a basic Arduino project using hardware f
 - [Nucleo L496ZG microcontroller](https://os.mbed.com/platforms/ST-Nucleo-L496ZG/)
 - [X-Nucleo IKS01A2 sensor board](https://www.st.com/en/ecosystems/x-nucleo-iks01a2.html)
 
+![image](https://user-images.githubusercontent.com/53897474/166283647-21528042-ed2a-4b43-836f-c65470029f3d.png)
+![image](https://user-images.githubusercontent.com/53897474/166283557-e5f2f534-3732-4d73-932f-d146ae28053c.png)
+
 ## Download Arduino IDE
 -	Download the latest version of [Arduino IDE](https://www.arduino.cc/en/software) and install it. This quick tutorial uses `Arduino IDE 1.8.19`.
 
