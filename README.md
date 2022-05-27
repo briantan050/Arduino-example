@@ -54,4 +54,4 @@ The following is an example of creating a basic Arduino project using hardware f
 -	That is the end of this quick example project! 
 
 ### Notes:
--	[Troubleshoot](https://support.arduino.cc/hc/en-us/articles/4403361259538-I-can-upload-a-sketch-but-the-IDE-serial-monitor-does-not-open-Windows-) if serial monitor is not working.
+-	[Troubleshoot](https://support.arduino.cc/hc/en-us/articles/4403361259538-I-can-upload-a-sketch-but-the-IDE-serial-monitor-does-not-open-Windows-) if serial monitor is not working. 
